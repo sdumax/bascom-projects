@@ -1,0 +1,12 @@
+{
+  "name": "bascom-projects-app",
+  "version": "1.0.0",
+  "description": "A user-friendly project management tool",
+  "main": "index.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DC Technologies Inc",
+  "license": "ISC"
+}

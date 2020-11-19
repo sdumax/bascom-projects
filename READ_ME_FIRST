@@ -1,0 +1,24 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!PLEASE READ🙏🙏!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!PLEASE🙏🙏!!, if its not your stack dont touch anything so you don't break something. PLEASE.
+
+This is our full application folder.😎
+It contains a boiler folder structure for both frontend and backend.
+
+!! Front end geng🥵🥵 will work in the "client" folder. 
+-- It contains all the react application. and futher info in this type of file "read_me_first".
+-- after cloning from github open project in vscode then run "npm run client install" to download the node modules
+-- afterinstalling the dependencies cd into your clients folder from terminal and start your server
+
+!! Back end geng🥵🥵 
+-- All folders excluding the "client" folder belongs to you 
+-- install your dependencies and dev dependencies here(just one person) e.g mongoose
+-- if you getting this file when the dependencies are already installed then run "npm install" to download the node modules
+-- Further info in this type of file "read_me_first".
+
+
+
+
+!!PLEASE🙏🙏!!, if its not your stack dont touch anything so you don't break something. PLEASE🙏🙏.
+
+Happy hacking!😎
