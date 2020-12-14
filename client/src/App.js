@@ -1,14 +1,17 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import { BrowserRouter as Router } from "react-router-dom";
+// import Components from "./components/Components";
+import { Sidebar } from "./components/Sidebar";
+import Routes from "./pages/Routes";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h4>DC Tech Inc🙌... WE MOVEEE😎</h4>
-      </header>
-    </div>
+    <Router>
+      <div className="flex h-sreen overflow-y-hidden app">
+        <Sidebar />
+        <Routes />
+      </div>
+    </Router>
   );
 }
 
